@@ -1,7 +1,10 @@
+*.cdninstagram.com
 *.chatgpt.com
 *.copilot.cx
 *.copilot.microsoft.com
 *.facebook.com
+*.fbcdn.net
+*.fbsbx.com
 *.githubcopilot.com
 *.instagram.com
 *.linkedin.com
@@ -10,6 +13,5 @@
 *.openai.com
 *.reddit.com
 *.rutracker.org
-*.spotify.com
 *.strava.com
 *.weather.com
