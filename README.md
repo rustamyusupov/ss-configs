@@ -10,5 +10,5 @@
 
 1. Install [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
 2. Add Server: Plus Icon -> Scan QR Code
-3. Add Config: Config Tab -> Plus Icon -> Insert [Link](https://raw.githubusercontent.com/rustamyusupov/ss-configs/main/ss_conditions.conf)
+3. Add Config: Config Tab -> Plus Icon -> Insert [Link](https://raw.githubusercontent.com/rustamyusupov/ss-configs/main/ss_conditions.conf) -> Use downloaded config
 4. Choose Routing by Config: Home Tab -> Global Routing -> Config
