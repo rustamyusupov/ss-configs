@@ -12,6 +12,7 @@ var __BLOCKEDSITES__ = [
   '*.medium.com',
   '*.meta.com',
   '*.openai.com',
+  '*.paypal.com',
   '*.reddit.com',
   '*.rutracker.org',
   'soap4.me',
