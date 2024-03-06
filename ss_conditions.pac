@@ -9,6 +9,7 @@ var __BLOCKEDSITES__ = [
   '*.githubcopilot.com',
   '*.globalcyclingnetwork.com',
   '*.instagram.com',
+  'kino.pub',
   '*.linkedin.com',
   '*.medium.com',
   '*.meta.com',
