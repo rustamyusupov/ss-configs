@@ -22,6 +22,7 @@ var __BLOCKEDSITES__ = [
   'soap4.me',
   '*.spotify.com',
   '*.strava.com',
+  '*.tradeinn.com',
   '*.weather.com',
 ];
 
