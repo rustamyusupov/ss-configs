@@ -3,6 +3,7 @@ var __BLOCKEDSITES__ = [
   '*.chatgpt.com',
   '*.copilot.cx',
   '*.copilot.microsoft.com',
+  '*.cloudfront.net',
   '*.digitalocean.com',
   '*.facebook.com',
   '*.fbcdn.net',

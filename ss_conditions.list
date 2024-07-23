@@ -1,5 +1,6 @@
 *.cdninstagram.com
 *.chatgpt.com
+*.cloudfront.net
 *.copilot.cx
 *.copilot.microsoft.com
 *.digitalocean.com
