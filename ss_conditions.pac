@@ -24,6 +24,7 @@ var __BLOCKEDSITES__ = [
   '*.strava.com',
   '*.tradeinn.com',
   '*.weather.com',
+  '*.youtube.com',
   'kino.pub',
   'soap4.me',
 ];
