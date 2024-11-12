@@ -9,6 +9,7 @@ var __BLOCKEDSITES__ = [
   '*.fbcdn.net',
   '*.fbsbx.com',
   '*.githubcopilot.com',
+  '*.gitlab.wlld.dev',
   '*.globalcyclingnetwork.com',
   '*.habr.com',
   '*.hetzner.com',
